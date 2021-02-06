@@ -2,9 +2,9 @@
 
 
 /**
-*main - return int
+* main - return int
 *
-*return: 0 value
+* return: 0 value
 */
 int main(void)
 {
