@@ -2,9 +2,10 @@
 
 
 /**
-*main - return value 0
+*main - When we want to make it clear that a function does not have to return any value, we can do so by indicating at the beginning that the data type is going to be *"void" (null)
 *
-*Return 0
+*Return value 0
+*
 */
 int main(void)
 {
