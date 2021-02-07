@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - return int
+ * main - return int entry
  *
  * return: 0 value
  */

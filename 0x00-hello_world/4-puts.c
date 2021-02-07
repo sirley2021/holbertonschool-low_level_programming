@@ -2,13 +2,13 @@
 
 
 /**
-*int - return value int
+* int - return value int
 *
-*decription function main - return value 0
+* main - return value 0
 *
-*void: data type null
+* void: data type null
 *
-*Return: null value
+* return: null value
 */
 int main(void)
 {
